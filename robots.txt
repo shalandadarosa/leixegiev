@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://sohhuumeik.antje-kraschinski.de/sitemap.xml
